@@ -43,7 +43,7 @@ require_once(__DIR__ . '/config.php');
 //If user is not logged in
 
 
-header("Location: http://localhost/moodle/mod/quiz/view.php?id=2"); /* Redirect browser */
+header("Location: http://coachremedy.tech/moodle/mod/quiz/view.php?id=2"); /* Redirect browser */
 //exit();
 
 //$PAGE->set_url('/cr_redirect.php');
